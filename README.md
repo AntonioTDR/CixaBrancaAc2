@@ -1,5 +1,5 @@
 ## CaixaBrancaLogin
-## Teste para análisar os erros presentes no código!
+## Teste para análisar o erros presentes no código!
 1 - Driver: Erro na Classe do Driver:
 Na linha onde você tenta carregar o driver do MySQL, você deve usar: "com.mysql.cj.jdbc.Driver".
 
